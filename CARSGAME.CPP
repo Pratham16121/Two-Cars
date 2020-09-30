@@ -19,7 +19,7 @@ void ShiftCars(char);
 int midx,midy,speed; 
 int Cary;
 int Lane1,Lane2,Lane3,Lane4;
-int BlueCarX,RedCarX; // These are my two cars varibales
+int BlueCarX,RedCarX; // These are my two cars varibale
 int BlueObjX,RedObjX,RedObjY=30,BlueObjY=30,BlueObjShape,RedObjShape;
 int Out=0,Score=0;
 //***********Now the game***************************************************

@@ -80,7 +80,7 @@ void main()
 	getch();
 	getch();
 }
-//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+// All the declared functions defined below.
 void ShiftCars(char ch)
 {
 	if(ch=='s'){
